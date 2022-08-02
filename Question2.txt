@@ -1,0 +1,20 @@
+package coreJava;
+
+public class Question4 {
+	public static void main(String[] args) {
+	
+	int n=1;
+	for(int i=1;i<=4;i++){
+		for(int j=1; j<=4;j++){
+			//if(i==0)
+			System.out.print(i);
+			//System.out.print("\t");
+			n++;
+		}
+		System.out.println("");
+	}
+			
+
+	}
+
+}
